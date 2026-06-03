@@ -29,5 +29,7 @@ switch($accion){
         echo json_encode($fila);
 
     break;
+
+    //Pasi
 }
 ?>
