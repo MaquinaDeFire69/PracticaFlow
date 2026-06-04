@@ -30,4 +30,4 @@ switch($accion){
 
     break;
 }
-?>
+?>//Modificacion 
